@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbf8"/><stop offset="1" stop-color="#e8f5ee"/></linearGradient>
+    </defs>
+    <rect width="1000" height="600" rx="34" fill="url(#bg)"/>
+    
+        <rect x="130" y="300" width="740" height="210" rx="28" fill="#f6f0df"/>
+        <rect x="180" y="345" width="220" height="120" rx="14" fill="#e7b65a"/>
+        <path d="M210 345 L290 285 L370 345" fill="#d49d42"/>
+        <rect x="480" y="350" width="250" height="105" rx="14" fill="#ffffff"/>
+        <path d="M545 350 L545 455 M665 350 L665 455" stroke="#0f6b4f" stroke-width="18"/>
+        <circle cx="430" cy="245" r="72" fill="#dff4e8"/>
+        <path d="M395 245 L420 270 L470 205" fill="none" stroke="#0f6b4f" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="760" cy="220" r="48" fill="#f3c7a7"/>
+        <path d="M720 290 Q760 255 800 290 L820 390 L700 390Z" fill="#f5b942"/>
+        
+    <text x="70" y="80" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#143b2f">Campanhas de doação</text>
+    <text x="70" y="118" font-family="Arial, sans-serif" font-size="20" fill="#477064">Recursos que chegam a quem precisa.</text>
+    </svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbf8"/><stop offset="1" stop-color="#e8f5ee"/></linearGradient>
+    </defs>
+    <rect width="1000" height="600" rx="34" fill="url(#bg)"/>
+    
+        <circle cx="500" cy="300" r="185" fill="#dff4e8"/>
+        <circle cx="335" cy="255" r="52" fill="#f3c7a7"/>
+        <path d="M280 325 Q335 290 390 325 L420 470 L250 470Z" fill="#0f6b4f"/>
+        <circle cx="665" cy="255" r="52" fill="#b97c5a"/>
+        <path d="M610 325 Q665 290 720 325 L750 470 L580 470Z" fill="#e65d4f"/>
+        <circle cx="500" cy="215" r="54" fill="#dba982"/>
+        <path d="M445 285 Q500 250 555 285 L585 470 L415 470Z" fill="#f5b942"/>
+        <path d="M420 365 Q500 315 580 365" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+        <path d="M455 365 L500 410 L545 365" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+        
+    <text x="70" y="80" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#143b2f">Voluntariado</text>
+    <text x="70" y="118" font-family="Arial, sans-serif" font-size="20" fill="#477064">Tempo, talento e solidariedade.</text>
+    </svg>

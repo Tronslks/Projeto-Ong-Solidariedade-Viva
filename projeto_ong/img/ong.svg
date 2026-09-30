@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbf8"/><stop offset="1" stop-color="#e8f5ee"/></linearGradient>
+    </defs>
+    <rect width="1000" height="600" rx="34" fill="url(#bg)"/>
+    
+        <circle cx="700" cy="145" r="105" fill="#dff4e8"/>
+        <circle cx="790" cy="250" r="150" fill="#b9e6cb"/>
+        <path d="M80 440 C180 315 285 300 390 410 C500 525 625 470 760 365 C850 295 930 310 1000 390 L1000 600 L80 600Z" fill="#0f6b4f"/>
+        <circle cx="245" cy="235" r="58" fill="#f3c7a7"/>
+        <circle cx="245" cy="220" r="68" fill="#233b35"/>
+        <path d="M175 300 Q245 250 315 300 L350 455 L140 455Z" fill="#f5b942"/>
+        <circle cx="430" cy="275" r="50" fill="#dba982"/>
+        <circle cx="430" cy="260" r="59" fill="#4b3429"/>
+        <path d="M370 330 Q430 295 490 330 L520 470 L340 470Z" fill="#ffffff"/>
+        <circle cx="610" cy="245" r="54" fill="#b97c5a"/>
+        <circle cx="610" cy="230" r="63" fill="#2e2a26"/>
+        <path d="M550 305 Q610 275 670 305 L705 475 L515 475Z" fill="#e65d4f"/>
+        
+    <text x="70" y="80" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#143b2f">Juntos pela comunidade</text>
+    <text x="70" y="118" font-family="Arial, sans-serif" font-size="20" fill="#477064">Ações que transformam realidades.</text>
+    </svg>
